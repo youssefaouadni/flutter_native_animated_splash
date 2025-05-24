@@ -150,7 +150,7 @@ Please include tests and update documentation for new features.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This package is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
