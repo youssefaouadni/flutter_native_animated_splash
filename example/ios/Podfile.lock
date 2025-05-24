@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - native_animated_splash (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - native_animated_splash (from `.symlinks/plugins/native_animated_splash/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  native_animated_splash:
+    :path: ".symlinks/plugins/native_animated_splash/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: 4a889634ef21a45d28d50d622cf412dc6d9f586e
+  native_animated_splash: 41f715a7743a0f4832688dc07480a7a0bcbed6b8
+
+PODFILE CHECKSUM: 30fcd437507afb2beed425626e2636b098ff9b78
+
+COCOAPODS: 1.16.2
