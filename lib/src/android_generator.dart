@@ -100,10 +100,6 @@ class AndroidSplashGenerator {
   }
 
   /// Replaces or adds a color entry in the colors.xml content.
-  ///
-  /// If the color [name] exists, its value is updated; otherwise, a new color entry
-  /// is added before the closing </resources> tag.
-  ///
   /// [content] The current content of the colors.xml file.
   /// [name] The name of the color resource.
   /// [value] The color value (e.g., '#FFFFFF').
