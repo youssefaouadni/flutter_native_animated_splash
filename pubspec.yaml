@@ -1,6 +1,6 @@
 name: native_animated_splash
 description: "A CLI tool to generate Android/iOS splash screens with optional animations."
-version: 0.0.1
+version: 0.0.1+1
 repository: https://github.com/youssefaouadni/flutter_native_animated_splash.git
 environment:
   sdk: ^3.7.2
