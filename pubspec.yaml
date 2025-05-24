@@ -23,12 +23,10 @@ dev_dependencies:
   lints: ^5.1.1
   test: ^1.25.0
 
-
 executables:
-  flutter_animated_splash: bin/flutter_animated_splash.dart
+  flutter_animated_splash:
 
 flutter:
-
   plugin:
     platforms:
       android:
@@ -36,5 +34,3 @@ flutter:
         pluginClass: NativeAnimatedSplashPlugin
       ios:
         pluginClass: NativeAnimatedSplashPlugin
-
-
